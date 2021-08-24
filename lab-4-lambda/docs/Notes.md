@@ -27,7 +27,7 @@
 15. Before execute Junit there is a JSON payload file src/test/resources/s3-event.put.json, Need to update the bucket name with "calculator-input-(your-name)"
 16. Output will be min, max and avg number.
 17. Now create package deploy the Lambda funciton "JavaCalculator" into aws lambda.
-18. To create a package execute Mavel install then calculator-1.0.0.jar created.
+18. To create a package execute Maven install then calculator-1.0.0.jar created.
 19. Open terminal on target folder.
 20. execute below code on the terminal.
     ```
