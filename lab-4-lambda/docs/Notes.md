@@ -1,6 +1,6 @@
 ## AWS lambda trigger a lambda function when objects are uploaded into s3 bucket and lambda function will calculate the max, min and avg of the numbers available in s3 object.
 
-[AWS Lambda lab](https://github.com/techiearchive/aws-dev-lab/blob/master/lab-4-lambda/images/lab-4-lambda.png)
+![AWS Lambda lab](/lab-4-lambda/images/lab-4-lambda.png)
 
 1. Create a s3 bucket name "calculator-input-(your-name)"
 2. Upload a file with random numbers eg: [numbers.txt](https://github.com/techiearchive/aws-dev-lab/blob/master/content/numbers.txt)
