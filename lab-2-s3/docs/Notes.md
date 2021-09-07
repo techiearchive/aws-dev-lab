@@ -7,4 +7,4 @@
 4. Execute java code to convert csv file into json file and upload into output s3 bucket.
 5. Using java code create pre-signed url for output bucket.
 
-[s3 bucket lab](https://github.com/techiearchive/aws-dev-lab/blob/master/lab-2-s3/images/lab-2-s3bucket.png)
+![s3 bucket lab](/lab-2-s3/images/lab-2-s3bucket.png)
