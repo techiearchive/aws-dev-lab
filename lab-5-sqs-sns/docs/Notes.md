@@ -1,6 +1,6 @@
 ## Developing Messaging Solutions with Amazon SNS and Amazon SQS
 
-[AWS SQS & SNS Lab](https://github.com/techiearchive/aws-dev-lab/blob/master/lab-5-sqs-sns/images/lab-5-sqs-sns.png)
+![AWS SQS & SNS Lab](/lab-5-sqs-sns/images/lab-5-sqs-sns.png)
 
 ### Develop an application with AWS SNS and SQS services
 - Send emails to customers about their orders.
