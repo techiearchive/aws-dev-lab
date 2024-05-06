@@ -7,7 +7,7 @@ aws developer training lab codebase
 **Description:** windows machine with JAVA 11, maven 3.6.3, eclipse 2020-09, git, aws cli, Notepad++
 
 ### linux dev machine (us-east-1)
-**Description:** Amazon linux 2, java 11, Node latest, Git and serverless api
+**Description:** Amazon linux 2, java 11, Node latest, Git, maven3.6.3, aws cli
 
 ## Lab Notes
 1. [lab-1-iam](https://github.com/techiearchive/aws-dev-lab/blob/master/lab-1-readysetgo/docs/Notes.md)
